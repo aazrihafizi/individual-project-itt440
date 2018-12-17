@@ -1,0 +1,36 @@
+
+
+
+	Name 	   : Muhammad Azri Hafizi Bin Azuar
+	Matric No. : 2017170625
+	Class 	   : CS2454A
+
+
+	Individual Project (20%)
+	
+	Topic (Choose One)
+
+  	 - IOT
+  	 - CTF (client use nc)
+  	 - Tool prevent Worm/ Mallware/ Ransomware
+  	 - Tool for Network Monitoring
+ 	 - Tool for Authorization/Authentication
+ 	 - Cloud file encrypt/ decrypt/ hashing
+ 	 - Using RSA
+
+	Criteria
+
+   	- more than 3 transactions.
+   	- multi-client
+   	- input integer/float
+   	- time different in seconds (millisecond is bonus)
+   	- process. transform input to another shape
+   	- store (file)
+
+	Strictly Don't Do
+
+   	- Tic Toe Game
+   	- ALL Java Game
+   	- ALL GAME
+   	- Game, game and game
+   	- Chat Server
